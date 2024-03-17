@@ -1,13 +1,13 @@
 # NLP Project: Movies Sentiments Detection
 
-<p align="center"><img src="https://plus.unsplash.com/premium_photo-1682310144714-cb77b1e6d64a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmV2aWV3c3xlbnwwfHwwfHx8MA%3D%3D" width="80%" height="auto"></p>
+<p align="center"><img src="https://plus.unsplash.com/premium_photo-1682310566465-61013a549353?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cmV2aWV3c3xlbnwwfHwwfHx8MA%3D%3D" width="80%" height="auto"></p>
 
 Welcome to the project. This project is created for detecting whether the movie review is positive or negative. 
 
   
 ## Live Demo:
 
-See Project in Streamlit Webapp: https://sms-emails-spam-detection.streamlit.app/
+See Project in Streamlit Webapp: https://nlp-movies-sentiments-detection.streamlit.app/
 
 ## About this Project:
 
