@@ -10,7 +10,7 @@ import string
 # load pickle files
 # 2 files; 1 is tf-idf vectorizer and 2 is trained model(MultinomialNB())
 vectorizer = pickle.load(open("count_vectorizer.pkl", "rb"))
-model = pickle.load(open("rf.pkl", "rb"))
+model = pickle.load(open("trained_model.pkl", "rb"))
 
 st.title("Positive/Negative Comments Sentiments")
 input_txt = st.text_input("Enter message:") # taking input from user
