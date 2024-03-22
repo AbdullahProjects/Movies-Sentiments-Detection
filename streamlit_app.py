@@ -64,12 +64,18 @@ if st.button("Predict"):
 
 
 # Create two columns for images
-col1, col2 = st.columns(2)
+col1, col2, col3, col4 = st.columns(4)
 
 # Display the first image in the first column
 with col1:
-    st.image("https://m.media-amazon.com/images/M/MV5BNTQzMzUxMDk3N15BMl5BanBnXkFtZTYwNDk2OTU5._V1_UX100_CR0,0,100,100_AL_.jpg", caption="Image 1")
+    st.image("https://m.media-amazon.com/images/M/MV5BNTQzMzUxMDk3N15BMl5BanBnXkFtZTYwNDk2OTU5._V1_UX100_CR0,0,100,100_AL_.jpg")
 
 # Display the second image in the second column
 with col2:
-    st.image("https://m.media-amazon.com/images/M/MV5BNTUyMTc5ODA0M15BMl5BanBnXkFtZTYwODI2ODg5._V1_UX100_CR0,0,100,100_AL_.jpg", caption="Image 2")
+    st.image("https://m.media-amazon.com/images/M/MV5BNTUyMTc5ODA0M15BMl5BanBnXkFtZTYwODI2ODg5._V1_UX100_CR0,0,100,100_AL_.jpg")
+
+with col3:
+    st.image("https://m.media-amazon.com/images/M/MV5BMTIzNTYzNjc0M15BMl5BanBnXkFtZTcwNzYzMDMyMQ@@._V1_UX100_CR0,0,100,100_AL_.jpg")
+
+with col4:
+    st.image("https://m.media-amazon.com/images/M/MV5BZjJlNGMxMjEtN2Q5Yi00MzY1LTljZTAtOGRjNWI0MDlhM2YwXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_UY100_CR58,0,100,100_AL_.jpg")
