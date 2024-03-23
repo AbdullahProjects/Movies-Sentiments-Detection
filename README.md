@@ -7,7 +7,7 @@ Welcome to the project. This project is created for detecting whether the movie 
   
 ## Live Demo:
 
-See Project in Streamlit Webapp: https://nlp-movies-sentiments-detection.streamlit.app/
+See Project in Streamlit Webapp: https://octobersky-movie-comments-sentiments-detection.streamlit.app/
 
 ## About this Project:
 
